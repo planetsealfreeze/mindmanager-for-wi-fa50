@@ -1,4 +1,4 @@
-# 
+# new MindManager for Windows Utility | drag-and-drop + mind-map-creation offers the most advanced MindManager for Windows utility, with drag-and-drop and mind-map-creation. Ideal
 
 
 
